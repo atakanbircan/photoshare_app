@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "255781354210",
+    "project_id": "simplephotoshareapp-d5cc9",
+    "storage_bucket": "simplephotoshareapp-d5cc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255781354210:android:fe8a2cecfba34aa6b37cbb",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "255781354210-fiuef0encchpsafg0ll208o3fqbrctg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh2RSh5U6ISzkaGI_ykIQbyWAaNK1a4YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "255781354210-fiuef0encchpsafg0ll208o3fqbrctg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
